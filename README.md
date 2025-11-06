@@ -24,7 +24,7 @@ It allows users to **create, read, update, and delete** products, while also pro
 - Displays total number of products  
 - Calculates total inventory value  
 - Lists out-of-stock items (price = 0)  
-- Accessible via Dashboard (📊) Floating Action Button  
+- Accessible via Dashboard Floating Action Button  
 
 ---
 
